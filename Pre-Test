@@ -1,0 +1,39 @@
+BASIC PROGRAMMING
+1.	Integer
+2.	String
+3.	113
+4.	2
+5.	3566GoldenStreetMiami
+
+FLAKY TEST
+1.	A flaky test is a automated test that sometimes it passes and sometimes it fails without any code changes. For example, a test is executed and it shows fail, and then the test is executed again without any change of the code, but it shows pass.
+2.	When it test that element using Selenium, there are different wait methods that Selenium should be applied. There are ThreadSleep, Implicit Wait, Explicit Wait, WebdriverWait, Fluent Wait.
+3.	Ask the development team to build in a workaround which is only active in the test environment or ask the development team to disable the CAPTCHA module in testing environment.
+
+ESSAY QUESTION TOPIC
+1.	a.   
+userId	Integer	1
+id	Integer	1
+title	String	sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+body	String	quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto
+
+b.
+userId	12
+id	
+title	recommendation
+body	motorcycle
+
+
+2.	LOGIN
+Open Browser To Login Page
+Input Username salmaashila
+Input password abcd123
+Submit Credentials
+
+
+3.	LOGIN
+	email	password
+Login user1	salma@mail.com	abc123
+Login user2	salmaa	-
+
+
